@@ -1,0 +1,15 @@
+D:\Course\homework\Lessons.Pro\AnimalHotel\bin\Debug\net8.0\AnimalHotel.exe
+D:\Course\homework\Lessons.Pro\AnimalHotel\bin\Debug\net8.0\AnimalHotel.deps.json
+D:\Course\homework\Lessons.Pro\AnimalHotel\bin\Debug\net8.0\AnimalHotel.runtimeconfig.json
+D:\Course\homework\Lessons.Pro\AnimalHotel\bin\Debug\net8.0\AnimalHotel.dll
+D:\Course\homework\Lessons.Pro\AnimalHotel\bin\Debug\net8.0\AnimalHotel.pdb
+D:\Course\homework\Lessons.Pro\AnimalHotel\obj\Debug\net8.0\AnimalHotel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course\homework\Lessons.Pro\AnimalHotel\obj\Debug\net8.0\AnimalHotel.AssemblyInfoInputs.cache
+D:\Course\homework\Lessons.Pro\AnimalHotel\obj\Debug\net8.0\AnimalHotel.AssemblyInfo.cs
+D:\Course\homework\Lessons.Pro\AnimalHotel\obj\Debug\net8.0\AnimalHotel.csproj.CoreCompileInputs.cache
+D:\Course\homework\Lessons.Pro\AnimalHotel\obj\Debug\net8.0\AnimalHotel.sourcelink.json
+D:\Course\homework\Lessons.Pro\AnimalHotel\obj\Debug\net8.0\AnimalHotel.dll
+D:\Course\homework\Lessons.Pro\AnimalHotel\obj\Debug\net8.0\refint\AnimalHotel.dll
+D:\Course\homework\Lessons.Pro\AnimalHotel\obj\Debug\net8.0\AnimalHotel.pdb
+D:\Course\homework\Lessons.Pro\AnimalHotel\obj\Debug\net8.0\AnimalHotel.genruntimeconfig.cache
+D:\Course\homework\Lessons.Pro\AnimalHotel\obj\Debug\net8.0\ref\AnimalHotel.dll
