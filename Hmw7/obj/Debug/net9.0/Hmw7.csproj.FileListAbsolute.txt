@@ -1,0 +1,15 @@
+D:\Studies\Course\homework\Hmw7\bin\Debug\net9.0\Hmw7.exe
+D:\Studies\Course\homework\Hmw7\bin\Debug\net9.0\Hmw7.deps.json
+D:\Studies\Course\homework\Hmw7\bin\Debug\net9.0\Hmw7.runtimeconfig.json
+D:\Studies\Course\homework\Hmw7\bin\Debug\net9.0\Hmw7.dll
+D:\Studies\Course\homework\Hmw7\bin\Debug\net9.0\Hmw7.pdb
+D:\Studies\Course\homework\Hmw7\obj\Debug\net9.0\Hmw7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studies\Course\homework\Hmw7\obj\Debug\net9.0\Hmw7.AssemblyInfoInputs.cache
+D:\Studies\Course\homework\Hmw7\obj\Debug\net9.0\Hmw7.AssemblyInfo.cs
+D:\Studies\Course\homework\Hmw7\obj\Debug\net9.0\Hmw7.csproj.CoreCompileInputs.cache
+D:\Studies\Course\homework\Hmw7\obj\Debug\net9.0\Hmw7.sourcelink.json
+D:\Studies\Course\homework\Hmw7\obj\Debug\net9.0\Hmw7.dll
+D:\Studies\Course\homework\Hmw7\obj\Debug\net9.0\refint\Hmw7.dll
+D:\Studies\Course\homework\Hmw7\obj\Debug\net9.0\Hmw7.pdb
+D:\Studies\Course\homework\Hmw7\obj\Debug\net9.0\Hmw7.genruntimeconfig.cache
+D:\Studies\Course\homework\Hmw7\obj\Debug\net9.0\ref\Hmw7.dll
