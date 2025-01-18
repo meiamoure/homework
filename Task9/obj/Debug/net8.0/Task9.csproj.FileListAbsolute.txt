@@ -1,0 +1,15 @@
+D:\Studies\Course\homework\Task9\bin\Debug\net8.0\Task9.exe
+D:\Studies\Course\homework\Task9\bin\Debug\net8.0\Task9.deps.json
+D:\Studies\Course\homework\Task9\bin\Debug\net8.0\Task9.runtimeconfig.json
+D:\Studies\Course\homework\Task9\bin\Debug\net8.0\Task9.dll
+D:\Studies\Course\homework\Task9\bin\Debug\net8.0\Task9.pdb
+D:\Studies\Course\homework\Task9\obj\Debug\net8.0\Task9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studies\Course\homework\Task9\obj\Debug\net8.0\Task9.AssemblyInfoInputs.cache
+D:\Studies\Course\homework\Task9\obj\Debug\net8.0\Task9.AssemblyInfo.cs
+D:\Studies\Course\homework\Task9\obj\Debug\net8.0\Task9.csproj.CoreCompileInputs.cache
+D:\Studies\Course\homework\Task9\obj\Debug\net8.0\Task9.sourcelink.json
+D:\Studies\Course\homework\Task9\obj\Debug\net8.0\Task9.dll
+D:\Studies\Course\homework\Task9\obj\Debug\net8.0\refint\Task9.dll
+D:\Studies\Course\homework\Task9\obj\Debug\net8.0\Task9.pdb
+D:\Studies\Course\homework\Task9\obj\Debug\net8.0\Task9.genruntimeconfig.cache
+D:\Studies\Course\homework\Task9\obj\Debug\net8.0\ref\Task9.dll
