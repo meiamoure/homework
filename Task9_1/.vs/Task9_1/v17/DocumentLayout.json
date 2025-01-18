@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Studies\\Course\\homework\\Task9_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05B03E16-DF83-4C16-B719-C525EDFBF52B}|Task9_1.csproj|d:\\studies\\course\\homework\\task9_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B03E16-DF83-4C16-B719-C525EDFBF52B}|Task9_1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B03E16-DF83-4C16-B719-C525EDFBF52B}|Task9_1.csproj|d:\\studies\\course\\homework\\task9_1\\ifilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B03E16-DF83-4C16-B719-C525EDFBF52B}|Task9_1.csproj|solutionrelative:ifilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B03E16-DF83-4C16-B719-C525EDFBF52B}|Task9_1.csproj|d:\\studies\\course\\homework\\task9_1\\ifileanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B03E16-DF83-4C16-B719-C525EDFBF52B}|Task9_1.csproj|solutionrelative:ifileanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B03E16-DF83-4C16-B719-C525EDFBF52B}|Task9_1.csproj|d:\\studies\\course\\homework\\task9_1\\analyzerrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B03E16-DF83-4C16-B719-C525EDFBF52B}|Task9_1.csproj|solutionrelative:analyzerrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B03E16-DF83-4C16-B719-C525EDFBF52B}|Task9_1.csproj|d:\\studies\\course\\homework\\task9_1\\fileanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B03E16-DF83-4C16-B719-C525EDFBF52B}|Task9_1.csproj|solutionrelative:fileanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B03E16-DF83-4C16-B719-C525EDFBF52B}|Task9_1.csproj|d:\\studies\\course\\homework\\task9_1\\filereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B03E16-DF83-4C16-B719-C525EDFBF52B}|Task9_1.csproj|solutionrelative:filereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnalyzerRunner.cs",
+              "DocumentMoniker": "D:\\Studies\\Course\\homework\\Task9_1\\AnalyzerRunner.cs",
+              "RelativeDocumentMoniker": "AnalyzerRunner.cs",
+              "ToolTip": "D:\\Studies\\Course\\homework\\Task9_1\\AnalyzerRunner.cs",
+              "RelativeToolTip": "AnalyzerRunner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T19:18:01.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IFileAnalyzer.cs",
+              "DocumentMoniker": "D:\\Studies\\Course\\homework\\Task9_1\\IFileAnalyzer.cs",
+              "RelativeDocumentMoniker": "IFileAnalyzer.cs",
+              "ToolTip": "D:\\Studies\\Course\\homework\\Task9_1\\IFileAnalyzer.cs",
+              "RelativeToolTip": "IFileAnalyzer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T18:35:07.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileReader.cs",
+              "DocumentMoniker": "D:\\Studies\\Course\\homework\\Task9_1\\FileReader.cs",
+              "RelativeDocumentMoniker": "FileReader.cs",
+              "ToolTip": "D:\\Studies\\Course\\homework\\Task9_1\\FileReader.cs",
+              "RelativeToolTip": "FileReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T18:27:06.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IFileReader.cs",
+              "DocumentMoniker": "D:\\Studies\\Course\\homework\\Task9_1\\IFileReader.cs",
+              "RelativeDocumentMoniker": "IFileReader.cs",
+              "ToolTip": "D:\\Studies\\Course\\homework\\Task9_1\\IFileReader.cs",
+              "RelativeToolTip": "IFileReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T18:26:11.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileAnalyzer.cs",
+              "DocumentMoniker": "D:\\Studies\\Course\\homework\\Task9_1\\FileAnalyzer.cs",
+              "RelativeDocumentMoniker": "FileAnalyzer.cs",
+              "ToolTip": "D:\\Studies\\Course\\homework\\Task9_1\\FileAnalyzer.cs",
+              "RelativeToolTip": "FileAnalyzer.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T18:15:00.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Studies\\Course\\homework\\Task9_1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Studies\\Course\\homework\\Task9_1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T18:14:45.664Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
