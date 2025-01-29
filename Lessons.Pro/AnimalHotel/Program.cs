@@ -38,20 +38,6 @@ for (int i = 0; i < 10; i++)
     romashkaHotel.AddAnimal(animal);
 }
 
-    /*IAnimal oldSchool = default;
-    
-    switch (animalType)
-    {
-        case 0:
-            break;
-        case 1:
-            oldSchool = animalFactory.CreateCat(animalName, owner);
-            break;
-        default:
-            throw new ArgumentException("Invalid animal type");
-            break;
-    }*/
-
 foreach (var animal in genericHotel)
 {
     Console.WriteLine(animal.Name);

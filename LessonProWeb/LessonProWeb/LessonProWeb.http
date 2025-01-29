@@ -1,0 +1,6 @@
+@LessonProWeb_HostAddress = http://localhost:5187
+
+GET {{LessonProWeb_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
