@@ -1,0 +1,12 @@
+D:\Studies\Course\5Layers.Animals\src\Animals.Core\bin\Debug\net8.0\Animals.Core.deps.json
+D:\Studies\Course\5Layers.Animals\src\Animals.Core\bin\Debug\net8.0\Animals.Core.dll
+D:\Studies\Course\5Layers.Animals\src\Animals.Core\bin\Debug\net8.0\Animals.Core.pdb
+D:\Studies\Course\5Layers.Animals\src\Animals.Core\obj\Debug\net8.0\Animals.Core.csproj.AssemblyReference.cache
+D:\Studies\Course\5Layers.Animals\src\Animals.Core\obj\Debug\net8.0\Animals.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studies\Course\5Layers.Animals\src\Animals.Core\obj\Debug\net8.0\Animals.Core.AssemblyInfoInputs.cache
+D:\Studies\Course\5Layers.Animals\src\Animals.Core\obj\Debug\net8.0\Animals.Core.AssemblyInfo.cs
+D:\Studies\Course\5Layers.Animals\src\Animals.Core\obj\Debug\net8.0\Animals.Core.csproj.CoreCompileInputs.cache
+D:\Studies\Course\5Layers.Animals\src\Animals.Core\obj\Debug\net8.0\Animals.Core.dll
+D:\Studies\Course\5Layers.Animals\src\Animals.Core\obj\Debug\net8.0\refint\Animals.Core.dll
+D:\Studies\Course\5Layers.Animals\src\Animals.Core\obj\Debug\net8.0\Animals.Core.pdb
+D:\Studies\Course\5Layers.Animals\src\Animals.Core\obj\Debug\net8.0\ref\Animals.Core.dll
