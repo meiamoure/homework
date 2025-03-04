@@ -99,7 +99,7 @@ public class BooksController(IMediator mediator) : ControllerBase
     }
 
     [HttpGet("get-by-name/{name}")]
-    public async Task<ActionResult> GetAnimalByName(
+    public async Task<ActionResult> GetBookByName(
         [FromRoute] string name,
         CancellationToken cancellationToken = default)
     {
