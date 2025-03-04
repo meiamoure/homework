@@ -1,0 +1,7 @@
+D:\Studies\Course\homework\Library\src\Library.Api\obj\Release\net8.0\Library.Api.csproj.AssemblyReference.cache
+D:\Studies\Course\homework\Library\src\Library.Api\obj\Release\net8.0\Library.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studies\Course\homework\Library\src\Library.Api\obj\Release\net8.0\Library.Api.AssemblyInfoInputs.cache
+D:\Studies\Course\homework\Library\src\Library.Api\obj\Release\net8.0\Library.Api.AssemblyInfo.cs
+D:\Studies\Course\homework\Library\src\Library.Api\obj\Release\net8.0\Library.Api.csproj.CoreCompileInputs.cache
+D:\Studies\Course\homework\Library\src\Library.Api\obj\Release\net8.0\Library.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Studies\Course\homework\Library\src\Library.Api\obj\Release\net8.0\Library.Api.sourcelink.json

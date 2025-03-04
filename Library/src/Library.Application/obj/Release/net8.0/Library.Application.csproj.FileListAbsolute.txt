@@ -1,0 +1,16 @@
+D:\Studies\Course\homework\Library\src\Library.Application\bin\Release\net8.0\Library.Application.deps.json
+D:\Studies\Course\homework\Library\src\Library.Application\bin\Release\net8.0\Library.Application.dll
+D:\Studies\Course\homework\Library\src\Library.Application\bin\Release\net8.0\Library.Application.pdb
+D:\Studies\Course\homework\Library\src\Library.Application\bin\Release\net8.0\Library.Core.dll
+D:\Studies\Course\homework\Library\src\Library.Application\bin\Release\net8.0\Library.Core.pdb
+D:\Studies\Course\homework\Library\src\Library.Application\obj\Release\net8.0\Library.Application.csproj.AssemblyReference.cache
+D:\Studies\Course\homework\Library\src\Library.Application\obj\Release\net8.0\Library.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studies\Course\homework\Library\src\Library.Application\obj\Release\net8.0\Library.Application.AssemblyInfoInputs.cache
+D:\Studies\Course\homework\Library\src\Library.Application\obj\Release\net8.0\Library.Application.AssemblyInfo.cs
+D:\Studies\Course\homework\Library\src\Library.Application\obj\Release\net8.0\Library.Application.csproj.CoreCompileInputs.cache
+D:\Studies\Course\homework\Library\src\Library.Application\obj\Release\net8.0\Library.Application.sourcelink.json
+D:\Studies\Course\homework\Library\src\Library.Application\obj\Release\net8.0\Library..D137A66B.Up2Date
+D:\Studies\Course\homework\Library\src\Library.Application\obj\Release\net8.0\Library.Application.dll
+D:\Studies\Course\homework\Library\src\Library.Application\obj\Release\net8.0\refint\Library.Application.dll
+D:\Studies\Course\homework\Library\src\Library.Application\obj\Release\net8.0\Library.Application.pdb
+D:\Studies\Course\homework\Library\src\Library.Application\obj\Release\net8.0\ref\Library.Application.dll
