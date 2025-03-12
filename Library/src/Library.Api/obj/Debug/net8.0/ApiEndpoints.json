@@ -223,7 +223,7 @@
   },
   {
     "ContainingType": "Library.Api.Domain.Books.BooksController",
-    "Method": "GetAnimalByName",
+    "Method": "GetBookByName",
     "RelativePath": "api/books/get-by-name/{name}",
     "HttpMethod": "GET",
     "IsController": true,

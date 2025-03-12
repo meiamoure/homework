@@ -10,6 +10,7 @@ using Library.Application.Domain.Books.Queries.GetBookByName;
 using Library.Application.Domain.Books.Queries.GetBookDetails;
 using Library.Application.Domain.Books.Queries.GetBooks;
 using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Library.Api.Domain.Books;
@@ -18,6 +19,7 @@ namespace Library.Api.Domain.Books;
 public class BooksController(IMediator mediator) : ControllerBase
 {
     [HttpGet]
+    [Authorize]
     public async Task<ActionResult> GetBooks(
         [FromQuery][Required] int page = 1,
         [FromQuery][Required] int pageSize = 10,
