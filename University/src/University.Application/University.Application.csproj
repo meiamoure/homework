@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Domain\Departments\Commands\CreateDepartment\" />
+    <Folder Include="Domain\Departments\Commands\DeleteDepartment\" />
+    <Folder Include="Domain\Departments\Commands\UpdateDepartment\" />
+    <Folder Include="Domain\Departments\Queries\" />
+    <Folder Include="Domain\Faculties\Commands\" />
+    <Folder Include="Domain\Faculties\Queries\" />
+    <Folder Include="Domain\Groups\Commands\" />
+    <Folder Include="Domain\Groups\Queries\" />
+    <Folder Include="Domain\Students\Queries\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="12.4.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\University.Core\University.Core.csproj" />
+  </ItemGroup>
+
+</Project>
