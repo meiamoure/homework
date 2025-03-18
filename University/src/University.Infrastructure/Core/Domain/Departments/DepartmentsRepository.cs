@@ -1,5 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
-using University.Core.Domain.Departments.Common;
+﻿using University.Core.Domain.Departments.Common;
 using University.Core.Domain.Departments.Models;
 
 namespace University.Infrastructure.Core.Domain.Departments;

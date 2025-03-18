@@ -4528,39 +4528,33 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Maria\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/Users/mashadavidchenko/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Studies\\Course\\homework\\Library\\src\\Library.Persistence.EF.Core\\Library.Persistence.EF.Core.csproj",
+      "projectUniqueName": "/Users/mashadavidchenko/RiderProjects/homework/Library/src/Library.Persistence.EF.Core/Library.Persistence.EF.Core.csproj",
       "projectName": "Library.Persistence.EF.Core",
-      "projectPath": "D:\\Studies\\Course\\homework\\Library\\src\\Library.Persistence.EF.Core\\Library.Persistence.EF.Core.csproj",
-      "packagesPath": "C:\\Users\\Maria\\.nuget\\packages\\",
-      "outputPath": "D:\\Studies\\Course\\homework\\Library\\src\\Library.Persistence.EF.Core\\obj\\",
+      "projectPath": "/Users/mashadavidchenko/RiderProjects/homework/Library/src/Library.Persistence.EF.Core/Library.Persistence.EF.Core.csproj",
+      "packagesPath": "/Users/mashadavidchenko/.nuget/packages/",
+      "outputPath": "/Users/mashadavidchenko/RiderProjects/homework/Library/src/Library.Persistence.EF.Core/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Maria\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/mashadavidchenko/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Studies\\Course\\homework\\Library\\src\\Library.Core\\Library.Core.csproj": {
-              "projectPath": "D:\\Studies\\Course\\homework\\Library\\src\\Library.Core\\Library.Core.csproj"
+            "/Users/mashadavidchenko/RiderProjects/homework/Library/src/Library.Core/Library.Core.csproj": {
+              "projectPath": "/Users/mashadavidchenko/RiderProjects/homework/Library/src/Library.Core/Library.Core.csproj"
             }
           }
         }
@@ -4574,8 +4568,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.100"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -4642,7 +4635,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.407/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

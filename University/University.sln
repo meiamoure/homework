@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "University.Infrastructure",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "University.Application", "src\University.Application\University.Application.csproj", "{F2CBBA3E-DBBB-44C8-A4D4-DE2F75267FEC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "University.Persistence.EF.Core", "src\University.Persistence.EF.Core\University.Persistence.EF.Core.csproj", "{AB5890B8-D6FE-4730-99DB-C8448765D7FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,10 @@ Global
 		{F2CBBA3E-DBBB-44C8-A4D4-DE2F75267FEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2CBBA3E-DBBB-44C8-A4D4-DE2F75267FEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2CBBA3E-DBBB-44C8-A4D4-DE2F75267FEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB5890B8-D6FE-4730-99DB-C8448765D7FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB5890B8-D6FE-4730-99DB-C8448765D7FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB5890B8-D6FE-4730-99DB-C8448765D7FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB5890B8-D6FE-4730-99DB-C8448765D7FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -44,5 +50,6 @@ Global
 		{6732E3CA-B119-42D5-A66F-31FAEEF11351} = {A5F9E239-41DF-47CC-A6B9-DF483D94E229}
 		{420D783D-5640-4E79-8B58-E180F7DB13F5} = {A5F9E239-41DF-47CC-A6B9-DF483D94E229}
 		{F2CBBA3E-DBBB-44C8-A4D4-DE2F75267FEC} = {A5F9E239-41DF-47CC-A6B9-DF483D94E229}
+		{AB5890B8-D6FE-4730-99DB-C8448765D7FF} = {A5F9E239-41DF-47CC-A6B9-DF483D94E229}
 	EndGlobalSection
 EndGlobal

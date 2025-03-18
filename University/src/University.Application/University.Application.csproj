@@ -7,13 +7,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Domain\Departments\Commands\CreateDepartment\" />
-    <Folder Include="Domain\Departments\Commands\DeleteDepartment\" />
-    <Folder Include="Domain\Departments\Commands\UpdateDepartment\" />
     <Folder Include="Domain\Departments\Queries\" />
-    <Folder Include="Domain\Faculties\Commands\" />
     <Folder Include="Domain\Faculties\Queries\" />
-    <Folder Include="Domain\Groups\Commands\" />
     <Folder Include="Domain\Groups\Queries\" />
     <Folder Include="Domain\Students\Queries\" />
   </ItemGroup>
