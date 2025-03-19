@@ -1,0 +1,6 @@
+@Hmw17_HostAddress = http://localhost:5236
+
+GET {{Hmw17_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

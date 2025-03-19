@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "Hmw17.Controllers.TransactionsController",
+    "Method": "GetAnalysisReport",
+    "RelativePath": "api/transactions/analysis-report",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Hmw17.Controllers.TransactionsController",
+    "Method": "UploadCsv",
+    "RelativePath": "api/transactions/upload-csv",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
