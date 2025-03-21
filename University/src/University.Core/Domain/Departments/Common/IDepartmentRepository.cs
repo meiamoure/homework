@@ -3,7 +3,7 @@
 namespace University.Core.Domain.Departments.Common;
 public interface IDepartmentRepository
 {
-    Task<Department> GetDepartmentById(Guid departmentId, CancellationToken cancellationToken);
-    void Add(Department department);
-    void Delete(Department facdepartmentulty);
+    public Task<Department> GetDepartmentById(Guid departmentId, CancellationToken cancellationToken);
+    public void Add(Department department);
+    public void Delete(Department department);
 }

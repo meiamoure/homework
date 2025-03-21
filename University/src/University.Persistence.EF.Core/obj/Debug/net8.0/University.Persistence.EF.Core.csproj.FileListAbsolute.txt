@@ -1,0 +1,6 @@
+D:\Studies\Course\homework\University\src\University.Persistence.EF.Core\obj\Debug\net8.0\University.Persistence.EF.Core.csproj.AssemblyReference.cache
+D:\Studies\Course\homework\University\src\University.Persistence.EF.Core\obj\Debug\net8.0\University.Persistence.EF.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studies\Course\homework\University\src\University.Persistence.EF.Core\obj\Debug\net8.0\University.Persistence.EF.Core.AssemblyInfoInputs.cache
+D:\Studies\Course\homework\University\src\University.Persistence.EF.Core\obj\Debug\net8.0\University.Persistence.EF.Core.AssemblyInfo.cs
+D:\Studies\Course\homework\University\src\University.Persistence.EF.Core\obj\Debug\net8.0\University.Persistence.EF.Core.csproj.CoreCompileInputs.cache
+D:\Studies\Course\homework\University\src\University.Persistence.EF.Core\obj\Debug\net8.0\University.Persistence.EF.Core.sourcelink.json

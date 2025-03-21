@@ -1,0 +1,13 @@
+D:\Studies\Course\homework\University\src\University.Core\bin\Debug\net8.0\University.Core.deps.json
+D:\Studies\Course\homework\University\src\University.Core\bin\Debug\net8.0\University.Core.dll
+D:\Studies\Course\homework\University\src\University.Core\bin\Debug\net8.0\University.Core.pdb
+D:\Studies\Course\homework\University\src\University.Core\obj\Debug\net8.0\University.Core.csproj.AssemblyReference.cache
+D:\Studies\Course\homework\University\src\University.Core\obj\Debug\net8.0\University.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studies\Course\homework\University\src\University.Core\obj\Debug\net8.0\University.Core.AssemblyInfoInputs.cache
+D:\Studies\Course\homework\University\src\University.Core\obj\Debug\net8.0\University.Core.AssemblyInfo.cs
+D:\Studies\Course\homework\University\src\University.Core\obj\Debug\net8.0\University.Core.csproj.CoreCompileInputs.cache
+D:\Studies\Course\homework\University\src\University.Core\obj\Debug\net8.0\University.Core.sourcelink.json
+D:\Studies\Course\homework\University\src\University.Core\obj\Debug\net8.0\University.Core.dll
+D:\Studies\Course\homework\University\src\University.Core\obj\Debug\net8.0\refint\University.Core.dll
+D:\Studies\Course\homework\University\src\University.Core\obj\Debug\net8.0\University.Core.pdb
+D:\Studies\Course\homework\University\src\University.Core\obj\Debug\net8.0\ref\University.Core.dll

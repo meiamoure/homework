@@ -1,6 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using University.Core.Domain.Groups.Common;
 using University.Core.Domain.Groups.Models;
+using University.Persistence.EF.Core.UniversityDb;
 
 namespace University.Infrastructure.Core.Domain.Groups;
 public class GroupsRepository(UniversityDbContext dbContext) : IGroupRepository
@@ -9,7 +10,6 @@ public class GroupsRepository(UniversityDbContext dbContext) : IGroupRepository
     {
         return await dbContext
             .Groups
-            .Include(x => x.Groups)
             .Where(x => x.Id == id)
             .FirstOrDefaultAsync(cancellationToken) ?? throw new InvalidOperationException("Group was not found");
     }

@@ -1,5 +1,7 @@
-﻿using University.Core.Domain.Departments.Common;
+﻿using Microsoft.EntityFrameworkCore;
+using University.Core.Domain.Departments.Common;
 using University.Core.Domain.Departments.Models;
+using University.Persistence.EF.Core.UniversityDb;
 
 namespace University.Infrastructure.Core.Domain.Departments;
 public class DepartmentsRepository(UniversityDbContext dbContext) : IDepartmentRepository
@@ -8,7 +10,6 @@ public class DepartmentsRepository(UniversityDbContext dbContext) : IDepartmentR
     {
         return await dbContext
             .Departments
-            .Include(x => x.Departments)
             .Where(x => x.Id == id)
             .FirstOrDefaultAsync(cancellationToken) ?? throw new InvalidOperationException("Department was not found");
     }

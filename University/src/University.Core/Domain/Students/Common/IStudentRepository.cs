@@ -3,7 +3,7 @@
 namespace University.Core.Domain.Students.Common;
 public interface IStudentRepository
 {
-    Task<Student> GetStudentById(Guid studentId, CancellationToken cancellationToken);
-    void Add(Student student);
-    void Delete(Student student);
+    public Task<Student> GetStudentById(Guid studentId, CancellationToken cancellationToken);
+    public void Add(Student student);
+    public void Delete(Student student);
 }

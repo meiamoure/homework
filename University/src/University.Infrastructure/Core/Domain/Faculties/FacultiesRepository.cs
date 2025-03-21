@@ -1,6 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using University.Core.Domain.Faculties.Models;
 using University.Core.Domain.Faculties.Common;
+using University.Persistence.EF.Core.UniversityDb;
 
 namespace University.Infrastructure.Core.Domain.Faculties;
 public class FacultiesRepository(UniversityDbContext dbContext) : IFacultyRepository
@@ -9,7 +10,6 @@ public class FacultiesRepository(UniversityDbContext dbContext) : IFacultyReposi
     {
         return await dbContext
             .Faculties
-            .Include(x => x.Faculties)
             .Where(x => x.Id == id)
             .FirstOrDefaultAsync(cancellationToken) ?? throw new InvalidOperationException("Faculty was not found");
     }

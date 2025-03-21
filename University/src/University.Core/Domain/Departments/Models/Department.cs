@@ -1,13 +1,11 @@
-﻿using System.Text.RegularExpressions;
-using University.Core.Domain.Departments.Data;
+﻿using University.Core.Domain.Departments.Data;
 using University.Core.Domain.Faculties.Models;
+using University.Core.Domain.Groups.Models;
 
 namespace University.Core.Domain.Departments.Models;
 
 public class Department
 {
-    private readonly List<Group> _groups = [];
-
     private Department()
     {
     }
@@ -23,7 +21,7 @@ public class Department
     public string Name { get; private set; }
     public Guid FacultyId { get; private set; }
     public Faculty Faculty { get; private set; } = null!;
-    public IReadOnlyCollection<Group> Groups => _groups.AsReadOnly();
+    public ICollection<Group> Groups { get; private set; } = [];
 
     public static Department Create(CreateDepartmentData data)
     {

@@ -1,5 +1,7 @@
-﻿using University.Core.Domain.Students.Common;
+﻿using Microsoft.EntityFrameworkCore;
+using University.Core.Domain.Students.Common;
 using University.Core.Domain.Students.Models;
+using University.Persistence.EF.Core.UniversityDb;
 
 namespace University.Infrastructure.Core.Domain.Students;
 public class StudentsRepository(UniversityDbContext dbContext) : IStudentRepository
@@ -8,7 +10,6 @@ public class StudentsRepository(UniversityDbContext dbContext) : IStudentReposit
     {
         return await dbContext
             .Students
-            .Include(x => x.Students)
             .Where(x => x.Id == id)
             .FirstOrDefaultAsync(cancellationToken) ?? throw new InvalidOperationException("Student was not found");
     }

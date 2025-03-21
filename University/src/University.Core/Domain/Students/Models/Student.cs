@@ -1,4 +1,4 @@
-﻿using System.Text.RegularExpressions;
+﻿using University.Core.Domain.Groups.Models;
 using University.Core.Domain.Students.Data;
 
 namespace University.Core.Domain.Students.Models;

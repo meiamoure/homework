@@ -3,7 +3,7 @@
 namespace University.Core.Domain.Groups.Common;
 public interface IGroupRepository
 {
-    Task<Group> GetGroupById(Guid groupId, CancellationToken cancellationToken);
-    void Add(Group group);
-    void Delete(Group group);
+    public Task<Group> GetGroupById(Guid groupId, CancellationToken cancellationToken);
+    public void Add(Group group);
+    public void Delete(Group group);
 }

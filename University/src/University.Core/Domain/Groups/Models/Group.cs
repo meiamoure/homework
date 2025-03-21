@@ -5,8 +5,6 @@ using University.Core.Domain.Students.Models;
 namespace University.Core.Domain.Groups.Models;
 public class Group
 {
-    private readonly List<Student> _students = [];
-
     private Group()
     {
     }
@@ -22,7 +20,8 @@ public class Group
     public string Name { get; private set; }
     public Guid DepartmentId { get; private set; }
     public Department Department { get; private set; } = null!;
-    public IReadOnlyCollection<Student> Students => _students.AsReadOnly();
+
+    public ICollection<Student> Students { get; private set; } = [];
 
     public static Group Create(CreateGroupData data)
     {

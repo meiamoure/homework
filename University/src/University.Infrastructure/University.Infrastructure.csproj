@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="11.11.0" />
     <PackageReference Include="MediatR" Version="12.4.1" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.3" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.3">
@@ -29,6 +30,7 @@
   <ItemGroup>
     <ProjectReference Include="..\University.Application\University.Application.csproj" />
     <ProjectReference Include="..\University.Core\University.Core.csproj" />
+    <ProjectReference Include="..\University.Persistence.EF.Core\University.Persistence.EF.Core.csproj" />
   </ItemGroup>
 
 </Project>
